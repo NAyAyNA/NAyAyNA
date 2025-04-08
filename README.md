@@ -1,5 +1,5 @@
-<h1>Hi! I'm ✨ Nayana ✨ </h1>
-<p>A passionate Software Developer from Bangalore. </p>
+<h1>Hi! I'm  Nayana  </h1>
+<p>A passionate ✨ Software Developer ✨ from Bangalore. </p>
 
 ![](https://komarev.com/ghpvc/?username=NAyAyNA&color=ff69b4)
 
